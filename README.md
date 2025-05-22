@@ -1,7 +1,4 @@
-# 👋 Hey there, I'm Isaya!
-
-<a href="">A Software Engineer | UI/UX Designer | Graphic Designer</a>  
-**isayajohn/isayajohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <a href="">A Software Engineer | UI/UX Designer | Graphic Designer</a> 
 
 ---
 
